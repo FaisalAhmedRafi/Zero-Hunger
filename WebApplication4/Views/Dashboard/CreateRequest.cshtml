@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "CreateRequest";
+}
+
+<h2>CreateRequest</h2>
+<h4>Welcome @Model.r_name</h4>
+
+<form method="post">
+    <!--How many food you want to add?-->
+
+    <input type="hidden" name="creq_r_id" value="@Model.r_id" />
+    <input type="hidden" name="creq_status" value="Pending" />
+
+            <label>Select Date and Time : </label>
+            <input type="datetime-local" name="creq_max_time" value=""/>
+
+            <label>Select Food : </label>
+
+            <select name="creq_f_id">
+                @foreach (var item in ViewBag.Foods)
+                {
+                    <option value="@item.f_id">@item.f_name</option>
+                }
+            </select>
+
+
+    <input type="submit" />
+
+</form>

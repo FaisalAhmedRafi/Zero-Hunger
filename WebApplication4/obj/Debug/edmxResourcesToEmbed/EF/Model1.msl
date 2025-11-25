@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NGOModelStoreContainer" CdmEntityContainer="NGOEntities">
+    <EntitySetMapping Name="CollectRequests">
+      <EntityTypeMapping TypeName="NGOModel.CollectRequest">
+        <MappingFragment StoreEntitySet="CollectRequests">
+          <ScalarProperty Name="creq_id" ColumnName="creq_id" />
+          <ScalarProperty Name="creq_r_id" ColumnName="creq_r_id" />
+          <ScalarProperty Name="creq_f_id" ColumnName="creq_f_id" />
+          <ScalarProperty Name="creq_max_time" ColumnName="creq_max_time" />
+          <ScalarProperty Name="creq_status" ColumnName="creq_status" />
+          <ScalarProperty Name="creq_e_id" ColumnName="creq_e_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="NGOModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="e_id" ColumnName="e_id" />
+          <ScalarProperty Name="e_name" ColumnName="e_name" />
+          <ScalarProperty Name="e_location" ColumnName="e_location" />
+          <ScalarProperty Name="e_designation" ColumnName="e_designation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Foods">
+      <EntityTypeMapping TypeName="NGOModel.Food">
+        <MappingFragment StoreEntitySet="Foods">
+          <ScalarProperty Name="f_id" ColumnName="f_id" />
+          <ScalarProperty Name="f_name" ColumnName="f_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Resturants">
+      <EntityTypeMapping TypeName="NGOModel.Resturant">
+        <MappingFragment StoreEntitySet="Resturants">
+          <ScalarProperty Name="r_id" ColumnName="r_id" />
+          <ScalarProperty Name="r_name" ColumnName="r_name" />
+          <ScalarProperty Name="r_address" ColumnName="r_address" />
+          <ScalarProperty Name="food_id" ColumnName="food_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

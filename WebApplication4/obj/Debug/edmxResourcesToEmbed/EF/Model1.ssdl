@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NGOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CollectRequests">
+    <Key>
+      <PropertyRef Name="creq_id" />
+    </Key>
+    <Property Name="creq_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="creq_r_id" Type="int" Nullable="false" />
+    <Property Name="creq_f_id" Type="int" Nullable="false" />
+    <Property Name="creq_max_time" Type="datetime" Nullable="false" />
+    <Property Name="creq_status" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="creq_e_id" Type="int" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="e_id" />
+    </Key>
+    <Property Name="e_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="e_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="e_location" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="e_designation" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Foods">
+    <Key>
+      <PropertyRef Name="f_id" />
+    </Key>
+    <Property Name="f_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="f_name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Resturants">
+    <Key>
+      <PropertyRef Name="r_id" />
+    </Key>
+    <Property Name="r_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="r_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="r_address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="food_id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_CollectRequests_Employees">
+    <End Role="Employees" Type="Self.Employees" Multiplicity="0..1" />
+    <End Role="CollectRequests" Type="Self.CollectRequests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="e_id" />
+      </Principal>
+      <Dependent Role="CollectRequests">
+        <PropertyRef Name="creq_e_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CollectRequests_Foods">
+    <End Role="Foods" Type="Self.Foods" Multiplicity="1" />
+    <End Role="CollectRequests" Type="Self.CollectRequests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Foods">
+        <PropertyRef Name="f_id" />
+      </Principal>
+      <Dependent Role="CollectRequests">
+        <PropertyRef Name="creq_f_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CollectRequests_Resturants">
+    <End Role="Resturants" Type="Self.Resturants" Multiplicity="1" />
+    <End Role="CollectRequests" Type="Self.CollectRequests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Resturants">
+        <PropertyRef Name="r_id" />
+      </Principal>
+      <Dependent Role="CollectRequests">
+        <PropertyRef Name="creq_r_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Resturants_Foods">
+    <End Role="Foods" Type="Self.Foods" Multiplicity="1" />
+    <End Role="Resturants" Type="Self.Resturants" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Foods">
+        <PropertyRef Name="f_id" />
+      </Principal>
+      <Dependent Role="Resturants">
+        <PropertyRef Name="food_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NGOModelStoreContainer">
+    <EntitySet Name="CollectRequests" EntityType="Self.CollectRequests" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Foods" EntityType="Self.Foods" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Resturants" EntityType="Self.Resturants" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CollectRequests_Employees" Association="Self.FK_CollectRequests_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="CollectRequests" EntitySet="CollectRequests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CollectRequests_Foods" Association="Self.FK_CollectRequests_Foods">
+      <End Role="Foods" EntitySet="Foods" />
+      <End Role="CollectRequests" EntitySet="CollectRequests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CollectRequests_Resturants" Association="Self.FK_CollectRequests_Resturants">
+      <End Role="Resturants" EntitySet="Resturants" />
+      <End Role="CollectRequests" EntitySet="CollectRequests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Resturants_Foods" Association="Self.FK_Resturants_Foods">
+      <End Role="Foods" EntitySet="Foods" />
+      <End Role="Resturants" EntitySet="Resturants" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

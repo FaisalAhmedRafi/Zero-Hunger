@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NGOModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CollectRequest">
+    <Key>
+      <PropertyRef Name="creq_id" />
+    </Key>
+    <Property Name="creq_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="creq_r_id" Type="Int32" Nullable="false" />
+    <Property Name="creq_f_id" Type="Int32" Nullable="false" />
+    <Property Name="creq_max_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="creq_status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="creq_e_id" Type="Int32" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK_CollectRequests_Employees" FromRole="CollectRequests" ToRole="Employees" />
+    <NavigationProperty Name="Resturant" Relationship="Self.FK_CollectRequests_Resturants" FromRole="CollectRequests" ToRole="Resturants" />
+    <NavigationProperty Name="Food" Relationship="NGOModel.FK_CollectRequests_Foods" FromRole="CollectRequest" ToRole="Food" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="e_id" />
+    </Key>
+    <Property Name="e_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="e_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="e_location" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="e_designation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="CollectRequests" Relationship="Self.FK_CollectRequests_Employees" FromRole="Employees" ToRole="CollectRequests" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="f_id" />
+    </Key>
+    <Property Name="f_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="f_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Resturants" Relationship="Self.FK_Resturants_Foods" FromRole="Foods" ToRole="Resturants" />
+    <NavigationProperty Name="CollectRequests" Relationship="NGOModel.FK_CollectRequests_Foods" FromRole="Food" ToRole="CollectRequest" />
+  </EntityType>
+  <EntityType Name="Resturant">
+    <Key>
+      <PropertyRef Name="r_id" />
+    </Key>
+    <Property Name="r_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="r_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="r_address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="food_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CollectRequests" Relationship="Self.FK_CollectRequests_Resturants" FromRole="Resturants" ToRole="CollectRequests" />
+    <NavigationProperty Name="Food" Relationship="Self.FK_Resturants_Foods" FromRole="Resturants" ToRole="Foods" />
+  </EntityType>
+  <Association Name="FK_CollectRequests_Employees">
+    <End Role="Employees" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="CollectRequests" Type="Self.CollectRequest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="e_id" />
+      </Principal>
+      <Dependent Role="CollectRequests">
+        <PropertyRef Name="creq_e_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CollectRequests_Resturants">
+    <End Role="Resturants" Type="Self.Resturant" Multiplicity="1" />
+    <End Role="CollectRequests" Type="Self.CollectRequest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Resturants">
+        <PropertyRef Name="r_id" />
+      </Principal>
+      <Dependent Role="CollectRequests">
+        <PropertyRef Name="creq_r_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Resturants_Foods">
+    <End Role="Foods" Type="Self.Food" Multiplicity="1" />
+    <End Role="Resturants" Type="Self.Resturant" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Foods">
+        <PropertyRef Name="f_id" />
+      </Principal>
+      <Dependent Role="Resturants">
+        <PropertyRef Name="food_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NGOEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CollectRequests" EntityType="Self.CollectRequest" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Foods" EntityType="Self.Food" />
+    <EntitySet Name="Resturants" EntityType="Self.Resturant" />
+    <AssociationSet Name="FK_CollectRequests_Employees" Association="Self.FK_CollectRequests_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="CollectRequests" EntitySet="CollectRequests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CollectRequests_Resturants" Association="Self.FK_CollectRequests_Resturants">
+      <End Role="Resturants" EntitySet="Resturants" />
+      <End Role="CollectRequests" EntitySet="CollectRequests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Resturants_Foods" Association="Self.FK_Resturants_Foods">
+      <End Role="Foods" EntitySet="Foods" />
+      <End Role="Resturants" EntitySet="Resturants" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CollectRequests_Foods" Association="NGOModel.FK_CollectRequests_Foods">
+      <End Role="Food" EntitySet="Foods" />
+      <End Role="CollectRequest" EntitySet="CollectRequests" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_CollectRequests_Foods">
+    <End Type="NGOModel.Food" Role="Food" Multiplicity="1" />
+    <End Type="NGOModel.CollectRequest" Role="CollectRequest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Food">
+        <PropertyRef Name="f_id" />
+      </Principal>
+      <Dependent Role="CollectRequest">
+        <PropertyRef Name="creq_f_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

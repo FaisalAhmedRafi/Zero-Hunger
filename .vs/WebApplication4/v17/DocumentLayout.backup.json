@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\views\\dashboard\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\dashboard\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\views\\dashboard\\createrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\dashboard\\createrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Model1.edmx",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication4\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-25T08:57:24.689Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectRequest.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\CollectRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\CollectRequest.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\CollectRequest.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\CollectRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:55:17.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resturant.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Resturant.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Resturant.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Resturant.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\Resturant.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:37:41.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T08:27:13.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewRequest.cshtml",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T08:27:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateRequest.cshtml",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T08:27:09.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:26:59.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Login.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Models\\Login.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:27:04.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:27:01.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "ViewRequest";
+}
+
+<h2>ViewRequest</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Resturant Name</th>
+        <th>Resturant Address</th>
+        <th>Food Name</th>
+        <th>Available Until</th>
+        <th>Request Status</th>
+        <th>Employee Name</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>@item.Resturant.r_name</td>
+            <td>@item.Resturant.r_address</td>
+            <td>@item.Food.f_name</td>
+            <td>@item.creq_max_time</td>
+            <td>@item.creq_status</td>
+            
+
+            @if (item.Employee != null && item.Employee.e_name != null)
+            {
+                <td>@item.Employee.e_name</td>
+            }
+            else
+            {
+                <td>Yet to Assign</td>
+            }
+
+
+            <td>
+                <form method="post">
+                    <input type="hidden" name="creq_id" value="@item.creq_id" />
+                    <select name="creq_e_id">
+                        @{ if (item.creq_status == "Accepted")
+                            {
+                                <option value="@item.Employee.e_id">@item.Employee.e_name</option>
+                            }
+                        }
+
+                        @foreach (var emp in ViewBag.Employees)
+                        {
+                            <option value="@emp.e_id">@emp.e_name</option>
+                        }
+                    </select>
+
+                    @{var rstatus = "submit";
+                    }
+                    @if (item.creq_status == "Delivered")
+                    {
+                        rstatus = "hidden";
+                    }
+
+                    <input type="@rstatus" name="btn" value=" @(item.creq_status == "Pending" ? "Accept" : "Confirm")" class="btn btn-primary" />
+                </form>
+
+            </td>
+
+        </tr>
+    }
+
+
+</table>
+
