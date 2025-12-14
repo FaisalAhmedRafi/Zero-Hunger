@@ -3,39 +3,111 @@
   "WorkspaceRootPath": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\views\\dashboard\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\dashboard\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\views\\dashboard\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\views\\dashboard\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\collectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\dtos\\collectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\resturantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\dtos\\resturantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\views\\dashboard\\createrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\dashboard\\createrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\views\\dashboard\\createrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\views\\dashboard\\createrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\resturantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\dtos\\resturantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\collectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\dtos\\collectrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|d:\\programming\\aiub\\dot net\\webapplication4\\webapplication4\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\Zero Hunger.csproj|solutionrelative:webapplication4\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\dtos\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\dtos\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\webapplication4\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE65E9F-9EE0-46F9-9B71-52EC9F5FDA8E}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,23 +118,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.edmx",
-              "RelativeDocumentMoniker": "WebApplication4\\EF\\Model1.edmx",
-              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "WebApplication4\\EF\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-11-25T08:57:24.689Z",
-              "EditorCaption": " [Diagram1]"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -72,79 +132,321 @@
               "RelativeDocumentMoniker": "WebApplication4\\EF\\CollectRequest.cs",
               "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\CollectRequest.cs",
               "RelativeToolTip": "WebApplication4\\EF\\CollectRequest.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T08:55:17.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Resturant.cs",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Resturant.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\EF\\Resturant.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Resturant.cs",
-              "RelativeToolTip": "WebApplication4\\EF\\Resturant.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T08:37:41.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Login\\Login.cshtml",
-              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-25T08:27:13.485Z",
+              "WhenOpened": "2025-12-14T13:16:15.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ViewRequest.cshtml",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
-              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-25T08:27:10.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateRequest.cshtml",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
-              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-25T08:27:09.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Controllers\\DashboardController.cs",
               "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "WebApplication4\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T08:26:59.309Z",
+              "WhenOpened": "2025-12-06T18:24:26.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CreateRequest.cshtml",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Dashboard\\CreateRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T18:36:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewRequest.cshtml",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Dashboard\\ViewRequest.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T18:36:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Employee.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Employee.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:12:59.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:27:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResturantDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\ResturantDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\ResturantDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\ResturantDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\ResturantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:24:21.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResturantDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\ResturantDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\ResturantDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\ResturantDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\ResturantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:12:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:23:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectRequestDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:24:14.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectRequest.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\CollectRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\CollectRequest.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\CollectRequest.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\CollectRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:55:17.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:36:44.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Employee.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Employee.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:37:44.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T18:24:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollectRequestDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\CollectRequestDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:11:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:12:08.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T15:36:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T08:27:13.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Model1.Context.tt",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.Context.tt",
+              "RelativeToolTip": "WebApplication4\\EF\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-06T14:44:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Resturant.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Resturant.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Resturant.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Resturant.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\Resturant.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:37:41.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\packages.config",
+              "RelativeDocumentMoniker": "WebApplication4\\packages.config",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\packages.config",
+              "RelativeToolTip": "WebApplication4\\packages.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-06T15:42:46.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication4\\Web.config",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Web.config",
+              "RelativeToolTip": "WebApplication4\\Web.config",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-06T15:43:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FoodDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\FoodDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DTOs\\FoodDTO.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\DTOs\\FoodDTO.cs",
+              "RelativeToolTip": "WebApplication4\\DTOs\\FoodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:11:50.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Model1.Context.cs",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "WebApplication4\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T14:44:59.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.tt",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Model1.tt",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.tt",
+              "RelativeToolTip": "WebApplication4\\EF\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-06T14:44:54.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebApplication4\\EF\\Model1.edmx",
+              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication4\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-25T08:57:24.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Models\\Login.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Models\\Login.cs",
@@ -152,21 +454,7 @@
               "RelativeToolTip": "WebApplication4\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T08:27:04.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Programming\\AIUB\\Dot Net\\WebApplication4\\WebApplication4\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "WebApplication4\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T08:27:01.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T08:27:04.781Z"
             }
           ]
         }
