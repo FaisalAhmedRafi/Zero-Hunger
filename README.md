@@ -269,4 +269,4 @@ This project is a learning/demo build, so a few things are intentionally simple:
 
 ## License
 
-This project is for educational purposes. Add a license of your choice (for example MIT) before distributing.
+This project is for educational purposes.
